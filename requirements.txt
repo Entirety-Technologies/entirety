@@ -1,7 +1,9 @@
 certifi==2022.6.15
 charset-normalizer==2.0.12
--e git+ssh://git@github.com/Entirety-Technologies/entirety.git@69e456a81337cdcc61e0a813bcc58e6688b91299#egg=entirety
+-e git+ssh://git@github.com/Entirety-Technologies/entirety.git@526945504878a2bde362520dcecb4d3f312a8eb5#egg=entirety
 idna==3.3
+lxml==4.9.0
+multitasking==0.0.10
 numpy==1.23.0
 pandas==1.4.3
 python-dateutil==2.8.2
@@ -9,3 +11,4 @@ pytz==2022.1
 requests==2.28.0
 six==1.16.0
 urllib3==1.26.9
+yfinance==0.1.72
